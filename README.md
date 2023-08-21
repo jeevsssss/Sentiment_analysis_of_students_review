@@ -18,7 +18,7 @@ Welcome to the Faculty Review Analysis project! This open-source project aims to
 
 ## Usage
 
-1. Open the Jupyter Notebook `faculty_review_analysis.ipynb` to view the project code and analysis.
+1. Open the Jupyter Notebook file to view the project code and analysis.
 
 2. Run the notebook cells to perform sentiment analysis, visualize teacher statistics, and gain insights from the data.
 
